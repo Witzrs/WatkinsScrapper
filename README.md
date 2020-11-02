@@ -1,2 +1,2 @@
 # WatkinsScrapper
-A python scrapping tool to extract audio files from the watkins dataset (https://cis.whoi.edu/science/B/whalesounds/index.cfm)
+A python scrapping tool to extract the BestOf audio files from the Watkins dataset (https://cis.whoi.edu/science/B/whalesounds/index.cfm)
